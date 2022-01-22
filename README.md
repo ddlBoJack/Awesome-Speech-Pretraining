@@ -23,8 +23,9 @@ Paper and Code for Self-Supervised Learning and Pre-Training on Speech.
 - Multi-target APC: [Improved speech representations with multi-target autoregressive predictive coding](https://arxiv.org/abs/2004.05274) - *YA Chung et al*, `ACL 2020`
 - Modified CPC: [Unsupervised pretraining transfers well across languages](https://arxiv.org/abs/2002.02848) - *M Riviere et al*, `ICASSP 2020`
 - [Mockingjay: Unsupervised speech representation learning with deep bidirectional transformer encoders](https://arxiv.org/abs/1910.12638) - *AT Liu et al*, `ICASSP 2020`
-- vq-wav2vec-FT: [Effectiveness of self-supervised pre-training for asr](https://ieeexplore.ieee.org/abstract/document/9054224/)  - *A Baevski et al et al*, `ICASSP 2020`
+- vq-wav2vec-FT: [Effectiveness of self-supervised pre-training for asr](https://ieeexplore.ieee.org/abstract/document/9054224/) - *A Baevski et al*, `ICASSP 2020`
 - DeCoAR: [Deep contextualized acoustic representations for semi-supervised speech recognition](https://arxiv.org/abs/1912.01679) - *S Ling et al*, `ICASSP 2020`
+- [Improved noisy student training for automatic speech recognition](https://arxiv.org/abs/2005.09629) - *DS Park et al*, `INTERSPEECH 2020`
 - 🌟 [wav2vec 2.0: A framework for self-supervised learning of speech representations](https://arxiv.org/abs/2006.11477) - *A Baevski et al*, `NeurIPS 2020`
 - Multi-lingual wav2vec 2.0: [Unsupervised cross-lingual representation learning for speech recognition](https://arxiv.org/abs/2006.13979) - *A Conneau et al*, `arXiv 2020`
 - Self-Training  wav2vec 2.0: [Self-training and Pre-training are Complementary for Speech Recognition](https://arxiv.org/abs/2010.11430)  - *Q Xu et al*, `arXiv 2020, ICASSP 2021`
