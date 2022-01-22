@@ -45,3 +45,8 @@ Paper and Code for Self-Supervised Learning and Pre-Training on Speech.
 - [Wavlm: Large-scale self-supervised pre-training for full stack speech processing](https://arxiv.org/abs/2110.13900) - *S Chen et al*, `arXiv 2021`
 
 - [Bigssl: Exploring the frontier of large-scale semi-supervised learning for automatic speech recognition](https://arxiv.org/abs/2109.13226) - *Y Zhang et al*, `arXiv 2021`
+
+### 2022
+
+- [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language) - *A Baevski et al*, `arXiv 2022`
+
