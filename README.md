@@ -1,9 +1,7 @@
 # Awesome-Speech-Pretraining
-Paper and Code for Self-Supervised Learning and Pre-Training on Speech.
+Paper, Code and Statistics for Self-Supervised Learning and Pre-Training on Speech.
 
 🌟 represents important papers. 
-
-
 
 ## Papers
 
@@ -50,4 +48,28 @@ Paper and Code for Self-Supervised Learning and Pre-Training on Speech.
 ### 2022
 
 - [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language) - *A Baevski et al*, `arXiv 2022`
+
+
+
+## Speech-Pretraining-STAT
+
+Statistics on speech pretraining. 
+
+### wav2vec 2.0
+
+#### Pre-training
+
+| Size  | Transformer                                         | Samples           | Batch Size | Train Time                                                   |
+| ----- | --------------------------------------------------- | ----------------- | ---------- | ------------------------------------------------------------ |
+| BASE  | 12 blocks, model dimension 768, FFN 3072, 8 heads   | 1.4m(cropped)/GPU | 1.6h       | 400k updates, 64 V100 * 1.6d                                 |
+| LARGE | 24 blocks, model dimension 1024, FFN 4096, 16 heads | 1.2m(cropped)/GPU | 2.7h       | 250k updates, 128 V100 * 2.3d(Librispeech)<br />600k updates, 128 V100 * 5.2d(LibriVox) |
+
+### wav2vec-u
+
+| Method                    | Feature Extractor | Batch Size                             | Train Time                                                   |
+| ------------------------- | ----------------- | -------------------------------------- | ------------------------------------------------------------ |
+| wav2vec-U                 | wav2vec 2.0 LARGE | 160 unlabeled audio + 160 text samples | 150k steps, single V100 * 12h                                |
+| wav2vec-U + self training | wav2vec 2.0 LARGE | /                                      | 80k updates, 8 V100(Librispeech)<br />13k updates, 4V100(TIMIT) |
+
+### HuBERT
 
