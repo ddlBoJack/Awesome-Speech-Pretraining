@@ -29,6 +29,7 @@ Paper, Code and Statistics for Self-Supervised Learning and Pre-Training on Spee
 - Self-Training  wav2vec 2.0: [Self-training and Pre-training are Complementary for Speech Recognition](https://arxiv.org/abs/2010.11430)  - *Q Xu et al*, `arXiv 2020, ICASSP 2021`
 - [Decoar 2.0: Deep contextualized acoustic representations with vector quantization](https://arxiv.org/abs/2012.06659)`arXiv 2020`
 - [Pushing the limits of semi-supervised learning for automatic speech recognition](https://arxiv.org/abs/2010.10504) - *Y Zhang et al*, `arXiv 2020`
+- [Unsupervised Learning For Sequence-to-sequence Text-to-speech For Low-resource Languages](https://arxiv.org/abs/2008.04549) - *Haitong Zhang  et al*, `arXiv 2020`
 
 ### 2021
 
@@ -72,4 +73,6 @@ Statistics on speech pretraining.
 | wav2vec-U + self training | wav2vec 2.0 LARGE | /                                      | 80k updates, 8 V100(Librispeech)<br />13k updates, 4V100(TIMIT) |
 
 ### HuBERT
+
+
 
