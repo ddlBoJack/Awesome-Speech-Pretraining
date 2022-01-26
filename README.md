@@ -69,6 +69,8 @@ Statistics on speech pretraining.
 | BASE  | 12 blocks, model dimension 768, FFN 3072, 8 heads   | 1.4m(cropped)/GPU | 1.6h       | 400k updates, 64 V100 * 1.6d                                 |
 | LARGE | 24 blocks, model dimension 1024, FFN 4096, 16 heads | 1.2m(cropped)/GPU | 2.7h       | 250k updates, 128 V100 * 2.3d(Librispeech)<br />600k updates, 128 V100 * 5.2d(LibriVox) |
 
+#### Fine-tuning
+
 ### wav2vec-u
 
 | Method                    | Feature Extractor | Batch Size                             | Train Time                                                   |
@@ -77,3 +79,13 @@ Statistics on speech pretraining.
 | wav2vec-U + self training | wav2vec 2.0 LARGE | /                                      | 80k updates, 8 V100(Librispeech)<br />13k updates, 4V100(TIMIT) |
 
 ### HuBERT
+
+#### Pre-training
+
+| Size    | Feature Extractor       | Batch Size | Stage                                                        | Train Time                                |
+| ------- | ----------------------- | ---------- | ------------------------------------------------------------ | ----------------------------------------- |
+| BASE    | wav2vec 2.0 BASE(95M)   | 87.5s      | 1: MFCC 250k steps<br />2: 6-th transformer layer 400k steps | 9.5h/100k steps, 32GPUs(Librispeech-960)  |
+| LARGE   | wav2vec 2.0 LARGE(317M) | 56.25s     | 3: 9-th transformer layer from BASE HuBERT 400k steps        | 9.5h/100k steps, 128GPUs(Libri-light-60k) |
+| X-LARGE | Conformer XXL(964M)     | 22.5s      | 3: 9-th transformer layer from BASE HuBERT 400k steps        | 9.5h/100k steps, 256GPUs(Libri-light-60k) |
+
+#### Fine-tuning
