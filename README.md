@@ -1,3 +1,27 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Awesome-Speech-Pretraining](#awesome-speech-pretraining)
+  - [Papers](#papers)
+    - [2018](#2018)
+    - [2019](#2019)
+    - [2020](#2020)
+    - [2021](#2021)
+    - [2022](#2022)
+    - [Special: SSL for TTS](#special-ssl-for-tts)
+  - [Statistics](#statistics)
+    - [wav2vec 2.0](#wav2vec-20)
+      - [Pre-training](#pre-training)
+      - [Fine-tuning](#fine-tuning)
+    - [wav2vec-u](#wav2vec-u)
+    - [HuBERT](#hubert)
+      - [Pre-training](#pre-training-1)
+      - [Fine-tuning](#fine-tuning-1)
+    - [data2vec](#data2vec)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Awesome-Speech-Pretraining
 Paper, Code and Statistics for Self-Supervised Learning and Pre-Training on Speech.
 
@@ -89,3 +113,5 @@ Statistics on speech pretraining.
 | X-LARGE | Conformer XXL(964M)     | 22.5s      | 3: 9-th transformer layer from BASE HuBERT 400k steps        | 9.5h/100k steps, 256GPUs(Libri-light-60k) |
 
 #### Fine-tuning
+
+### data2vec
