@@ -9,7 +9,7 @@
     - [2020](#2020)
     - [2021](#2021)
     - [2022](#2022)
-    - [Special: SSL for TTS](#special-ssl-for-tts)
+    - [SSL for TTS](#ssl-for-tts)
   - [Statistics](#statistics)
     - [wav2vec 2.0](#wav2vec-20)
       - [Pre-training](#pre-training)
@@ -73,7 +73,7 @@ Paper, Code and Statistics for Self-Supervised Learning and Pre-Training on Spee
 
 - [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language) - *A Baevski et al*, `arXiv 2022`
 
-### Special: SSL for TTS
+### SSL for TTS
 
 - [Unsupervised acoustic unit discovery for speech synthesis using discrete latent-variable neural networks](https://arxiv.org/abs/1904.07556) - *R Eloff et al*, `INTERSPEECH 2019`
 - [Unsupervised Learning For Sequence-to-sequence Text-to-speech For Low-resource Languages](https://arxiv.org/abs/2008.04549) - *H Zhang et al*, `INTERSPEECH 2020`
