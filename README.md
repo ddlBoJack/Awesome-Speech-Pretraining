@@ -72,6 +72,7 @@ Paper, Code and Statistics for Self-Supervised Learning and Pre-Training on Spee
 ### 2022
 
 - [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language) - *A Baevski et al*, `arXiv 2022`
+- [Self-supervised Learning with Random-projection Quantizer for Speech Recognition](https://arxiv.org/abs/2202.01855) - *CC Chiu et al*, `arXiv 2022`
 
 ### SSL for TTS
 
