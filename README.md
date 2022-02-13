@@ -10,6 +10,7 @@
     - [2021](#2021)
     - [2022](#2022)
     - [SSL for TTS](#ssl-for-tts)
+  - [Resources](#resources)
   - [Statistics](#statistics)
     - [wav2vec 2.0](#wav2vec-20)
       - [Pre-training](#pre-training)
