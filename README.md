@@ -23,7 +23,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Awesome-Speech-Pretraining
-Paper, Code and Statistics for Self-Supervised Learning and Pre-Training on Speech.
+Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training on Speech.
 
 🌟 represents important papers. 
 
@@ -78,6 +78,14 @@ Paper, Code and Statistics for Self-Supervised Learning and Pre-Training on Spee
 
 - [Unsupervised acoustic unit discovery for speech synthesis using discrete latent-variable neural networks](https://arxiv.org/abs/1904.07556) - *R Eloff et al*, `INTERSPEECH 2019`
 - [Unsupervised Learning For Sequence-to-sequence Text-to-speech For Low-resource Languages](https://arxiv.org/abs/2008.04549) - *H Zhang et al*, `INTERSPEECH 2020`
+
+
+
+## Resources
+
+[**S**peech processing **U**niversal **PER**formance **B**enchmark (SUPERB)](https://superbbenchmark.org/)
+
+[**S**elf-**S**upervised **S**peech **P**re-training and **R**epresentation **L**earning (**S3PRL**)](https://github.com/s3prl/s3prl)
 
 
 
