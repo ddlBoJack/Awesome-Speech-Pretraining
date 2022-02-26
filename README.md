@@ -35,10 +35,11 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 
 ### 2019
 
-- 🌟 APC: [An Unsupervised Autoregressive Model for Speech Representation Learning](https://arxiv.org/abs/1904.03240) - *YA Chung et al*, `INTERSPEECH 2019`
+- APC: [An Unsupervised Autoregressive Model for Speech Representation Learning](https://arxiv.org/abs/1904.03240) - *YA Chung et al*, `INTERSPEECH 2019`
 - 🌟 [wav2vec: Unsupervised Pre-training for Speech Recognition](https://arxiv.org/abs/1904.05862) - *S Schneider et al*, `INTERSPEECH 2019`
 - 🌟 [vq-wav2vec: Self-Supervised Learning of Discrete Speech Representations](https://arxiv.org/abs/1910.05453) - *A Baevski et al*, `arXiv 2019, ICLR 2020`
 - MPC: [Improving Transformer-based Speech Recognition Using Unsupervised Pre-training](https://arxiv.org/abs/1910.09932)  - *D Jiang et al*, `arXiv 2019`
+- PASE: [Learning Problem-agnostic Speech Representations from Multiple Self-supervised Tasks](https://arxiv.org/abs/1904.03416) - *S Pascual et al*, `INTERSPEECH 2019`
 
 ### 2020
 
