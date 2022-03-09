@@ -9,6 +9,7 @@
     - [2020](#2020)
     - [2021](#2021)
     - [2022](#2022)
+    - [Speech + Text](#speech--text)
     - [SSL for TTS](#ssl-for-tts)
   - [Resources](#resources)
   - [Statistics](#statistics)
