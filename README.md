@@ -83,6 +83,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 
 - [SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training](https://arxiv.org/abs/2110.10329) - *A Bapna et al*, `arXiv 2021`
 - [mSLAM: Massively multilingual joint pre-training for speech and text](https://arxiv.org/abs/2202.01374) - *A Bapna et al*, `arXiv 2022`
+- [Optimizing Alignment of Speech and Language Latent Spaces for End-to-End Speech Recognition and Understanding](https://arxiv.org/abs/2110.12138) - *W Wang et al*, `INTERSPEECH 2022`
 
 
 
