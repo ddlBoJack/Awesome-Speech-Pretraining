@@ -74,7 +74,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 
 ### 2022
 
-- [data2vec: A General Framework for Self-supervised Learning in Speech, Vision and Language](https://ai.facebook.com/research/data2vec-a-general-framework-for-self-supervised-learning-in-speech-vision-and-language) - *A Baevski et al*, `arXiv 2022`
+- [Data2vec: A general framework for self-supervised learning in speech, vision and language](https://arxiv.org/abs/2202.03555) - *A Baevski et al*, `arXiv 2022`
 - [Self-supervised Learning with Random-projection Quantizer for Speech Recognition](https://arxiv.org/abs/2202.01855) - *CC Chiu et al*, `arXiv 2022`
 - [SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities](https://arxiv.org/abs/2203.06849) - *HS Tsai et al*, `arXiv 2022`
 
