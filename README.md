@@ -75,7 +75,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 ### 2022
 
 - [Data2vec: A general framework for self-supervised learning in speech, vision and language](https://arxiv.org/abs/2202.03555) - *A Baevski et al*, `arXiv 2022`
-- [Self-supervised Learning with Random-projection Quantizer for Speech Recognition](https://arxiv.org/abs/2202.01855) - *CC Chiu et al*, `arXiv 2022`
+- BEST-RQ: [Self-supervised Learning with Random-projection Quantizer for Speech Recognition](https://arxiv.org/abs/2202.01855) - *CC Chiu et al*, `arXiv 2022`
 - [SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities](https://arxiv.org/abs/2203.06849) - *HS Tsai et al*, `arXiv 2022`
 - wav2vec-U 2.0: [Towards End-to-end Unsupervised Speech Recognition](https://arxiv.org/abs/2204.02492) - *AH Liu et al*, `arXiv 2022`
 
@@ -86,7 +86,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - [SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training](https://arxiv.org/abs/2110.10329) - *A Bapna et al*, `arXiv 2021`
 - [mSLAM: Massively multilingual joint pre-training for speech and text](https://arxiv.org/abs/2202.01374) - *A Bapna et al*, `arXiv 2022`
 - [Optimizing Alignment of Speech and Language Latent Spaces for End-to-End Speech Recognition and Understanding](https://arxiv.org/abs/2110.12138) - *W Wang et al*, `INTERSPEECH 2022`
-- [Unified Speech-Text Pre-training for Speech Translation and Recognition](https://arxiv.org/abs/2204.05409) - *Y Tang et al*, `ACL 2022`
+- STPT: [Unified Speech-Text Pre-training for Speech Translation and Recognition](https://arxiv.org/abs/2204.05409) - *Y Tang et al*, `ACL 2022`
 
 
 
