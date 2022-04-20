@@ -83,10 +83,12 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 
 ### Speech + Text
 
+- [A general multi-task learning framework to leverage text data for speech to text tasks](https://arxiv.org/abs/2010.11338) - *Y Tang et al*, `ICASSP 2021`
 - [SLAM: A Unified Encoder for Speech and Language Modeling via Speech-Text Joint Pre-Training](https://arxiv.org/abs/2110.10329) - *A Bapna et al*, `arXiv 2021`
 - [mSLAM: Massively multilingual joint pre-training for speech and text](https://arxiv.org/abs/2202.01374) - *A Bapna et al*, `arXiv 2022`
 - [Optimizing Alignment of Speech and Language Latent Spaces for End-to-End Speech Recognition and Understanding](https://arxiv.org/abs/2110.12138) - *W Wang et al*, `INTERSPEECH 2022`
 - STPT: [Unified Speech-Text Pre-training for Speech Translation and Recognition](https://arxiv.org/abs/2204.05409) - *Y Tang et al*, `ACL 2022`
+- [Self-Supervised Audio-and-Text Pre-training with Extremely Low-Resource Parallel Data](https://arxiv.org/abs/2204.04645) - *Y Kang et al*, `AAAI 2022`
 
 
 
