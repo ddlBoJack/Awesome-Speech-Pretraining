@@ -71,6 +71,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - [Wavlm: Large-scale self-supervised pre-training for full stack speech processing](https://arxiv.org/abs/2110.13900) - *S Chen et al*, `arXiv 2021`
 
 - [Bigssl: Exploring the frontier of large-scale semi-supervised learning for automatic speech recognition](https://arxiv.org/abs/2109.13226) - *Y Zhang et al*, `arXiv 2021`
+- [Wav-BERT: Cooperative Acoustic and Linguistic Representation Learning for Low-Resource Speech Recognition](https://arxiv.org/abs/2109.09161) - *G Zheng et al*, `EMNLP 2021`
 
 ### 2022
 
