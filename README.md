@@ -79,6 +79,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - BEST-RQ: [Self-supervised Learning with Random-projection Quantizer for Speech Recognition](https://arxiv.org/abs/2202.01855) - *CC Chiu et al*, `arXiv 2022`
 - [SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities](https://arxiv.org/abs/2203.06849) - *HS Tsai et al*, `arXiv 2022`
 - wav2vec-U 2.0: [Towards End-to-end Unsupervised Speech Recognition](https://arxiv.org/abs/2204.02492) - *AH Liu et al*, `arXiv 2022`
+- c-siam: [Contrastive Siamese Network for Semi-Supervised Speech Recognition](https://ieeexplore.ieee.org/abstract/document/9747355) - *S Khorram et al*, `ICASSP 2022`
 
 
 
