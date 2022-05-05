@@ -62,11 +62,11 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - [Unispeech: Unified speech representation learning with labeled and unlabeled data](https://arxiv.org/abs/2101.07597)- *C Wang et al*, `ACL 2021`
 - [Tera: Self-supervised learning of transformer encoder representation for speech](https://ieeexplore.ieee.org/abstract/document/9478264/) - *AT Liu et al*, `TASLP 2020`
 
-- [Robust wav2vec 2.0: Analyzing Domain Shift in Self-Supervised Pre-Training](https://arxiv.org/abs/2104.01027) - *WN Hsu et al*, `arXiv 2021`
+- [Robust wav2vec 2.0: Analyzing Domain Shift in Self-Supervised Pre-Training](https://arxiv.org/abs/2104.01027) - *WN Hsu et al*, `INTERSPEECH 2021`
 - Zero-shot wav2vec 2.0: [Simple and Effective Zero-shot Cross-lingual Phoneme Recognition](https://arxiv.org/abs/2109.11680) - *Q Xu et al*, `arXiv 2021`
 - 🌟 wav2vec-U: [Unsupervised Speech Recognition](https://arxiv.org/abs/2105.11084) - *A Baevski et al*, `NeurIPS 2021`
 - 🌟 [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) - *WN Hsu et al*, `TASLP 2021`
-- 🌟 [SUPERB: Speech processing Universal PERformance Benchmark](https://arxiv.org/abs/2105.01051) - *S Yang et al*, `arXiv 2021`
+- 🌟 [SUPERB: Speech processing Universal PERformance Benchmark](https://arxiv.org/abs/2105.01051) - *S Yang et al*, `INTERSPEECH 2021`
 - [Speecht5: Unified-modal encoder-decoder pre-training for spoken language processing](https://arxiv.org/abs/2110.07205) - *J Ao et al*, `arXiv 2021`
 - [Wavlm: Large-scale self-supervised pre-training for full stack speech processing](https://arxiv.org/abs/2110.13900) - *S Chen et al*, `arXiv 2021`
 
