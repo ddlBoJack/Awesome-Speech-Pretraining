@@ -80,6 +80,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - [SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities](https://arxiv.org/abs/2203.06849) - *HS Tsai et al*, `arXiv 2022`
 - wav2vec-U 2.0: [Towards End-to-end Unsupervised Speech Recognition](https://arxiv.org/abs/2204.02492) - *AH Liu et al*, `arXiv 2022`
 - c-siam: [Contrastive Siamese Network for Semi-Supervised Speech Recognition](https://ieeexplore.ieee.org/abstract/document/9747355) - *S Khorram et al*, `ICASSP 2022`
+- [Wav2Seq: Pre-training Speech-to-Text Encoder-Decoder Models Using Pseudo Languages](https://arxiv.org/abs/2205.01086) - *F Wu et al*, `arXiv 2022`
 
 
 
