@@ -100,6 +100,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 
 - [Unsupervised acoustic unit discovery for speech synthesis using discrete latent-variable neural networks](https://arxiv.org/abs/1904.07556) - *R Eloff et al*, `INTERSPEECH 2019`
 - [Unsupervised Learning For Sequence-to-sequence Text-to-speech For Low-resource Languages](https://arxiv.org/abs/2008.04549) - *H Zhang et al*, `INTERSPEECH 2020`
+- [Towards Unsupervised Speech Synthesis](https://naacl2022-srw.github.io/non_arch_papers/16.pdf) - *AH Liu et al*, `NAACL 2022`
 
 
 
