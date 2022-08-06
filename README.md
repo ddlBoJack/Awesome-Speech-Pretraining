@@ -82,6 +82,8 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - c-siam: [Contrastive Siamese Network for Semi-Supervised Speech Recognition](https://ieeexplore.ieee.org/abstract/document/9747355) - *S Khorram et al*, `ICASSP 2022`
 - [Wav2Seq: Pre-training Speech-to-Text Encoder-Decoder Models Using Pseudo Languages](https://arxiv.org/abs/2205.01086) - *F Wu et al*, `arXiv 2022`
 - Speech2C: [Pre-Training Transformer Decoder for End-to-End ASR Model with Unpaired Speech Data](https://arxiv.org/abs/2203.17113) - *J Ao et al*, `arXiv 2022`
+- [SPIRAL: Self-supervised Perturbation-Invariant Representation Learning for Speech Pre-Training](https://arxiv.org/abs/2201.10207) - *W Huang et al*, `ICLR 2022`
+- Audio-MAE: [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) - *H Xu et al*, `arXiv 2022`
 
 
 
@@ -93,6 +95,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - [Optimizing Alignment of Speech and Language Latent Spaces for End-to-End Speech Recognition and Understanding](https://arxiv.org/abs/2110.12138) - *W Wang et al*, `INTERSPEECH 2022`
 - STPT: [Unified Speech-Text Pre-training for Speech Translation and Recognition](https://arxiv.org/abs/2204.05409) - *Y Tang et al*, `ACL 2022`
 - [Self-Supervised Audio-and-Text Pre-training with Extremely Low-Resource Parallel Data](https://arxiv.org/abs/2204.04645) - *Y Kang et al*, `AAAI 2022`
+- Distill-L2S: [Distilling a Pretrained Language Model to a Multilingual ASR Model](https://arxiv.org/abs/2206.12638) - *K Choi et al*, `INTERSPEECH 2022`
 
 
 
