@@ -84,6 +84,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - Speech2C: [Pre-Training Transformer Decoder for End-to-End ASR Model with Unpaired Speech Data](https://arxiv.org/abs/2203.17113) - *J Ao et al*, `arXiv 2022`
 - [SPIRAL: Self-supervised Perturbation-Invariant Representation Learning for Speech Pre-Training](https://arxiv.org/abs/2201.10207) - *W Huang et al*, `ICLR 2022`
 - Audio-MAE: [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) - *H Xu et al*, `arXiv 2022`
+- [DistilHuBERT: Speech Representation Learning by Layer-wise Distillation of Hidden-unit BERT](https://arxiv.org/abs/2110.01900) - *H Chang et al*, `ICASSP 2022`
 
 
 
