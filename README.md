@@ -11,6 +11,7 @@
     - [2022](#2022)
     - [Speech + Text](#speech--text)
     - [SSL for TTS](#ssl-for-tts)
+    - [Model Compression and Acceleration](#model-compression-and-acceleration)
   - [Resources](#resources)
   - [Statistics](#statistics)
     - [wav2vec 2.0](#wav2vec-20)
@@ -84,7 +85,6 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - Speech2C: [Pre-Training Transformer Decoder for End-to-End ASR Model with Unpaired Speech Data](https://arxiv.org/abs/2203.17113) - *J Ao et al*, `arXiv 2022`
 - [SPIRAL: Self-supervised Perturbation-Invariant Representation Learning for Speech Pre-Training](https://arxiv.org/abs/2201.10207) - *W Huang et al*, `ICLR 2022`
 - Audio-MAE: [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) - *H Xu et al*, `arXiv 2022`
-- [DistilHuBERT: Speech Representation Learning by Layer-wise Distillation of Hidden-unit BERT](https://arxiv.org/abs/2110.01900) - *H Chang et al*, `ICASSP 2022`
 
 
 
@@ -107,6 +107,13 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - [Towards Unsupervised Speech Synthesis](https://naacl2022-srw.github.io/non_arch_papers/16.pdf) - *AH Liu et al*, `NAACL 2022`
 
 
+
+### Model Compression and Acceleration
+
+- [DistilHuBERT: Speech Representation Learning by Layer-wise Distillation of Hidden-unit BERT](https://arxiv.org/abs/2110.01900) - *H Chang et al*, `ICASSP 2022`
+- [FitHuBERT: Going Thinner and Deeper for Knowledge Distillation of Speech Self-Supervised Learning](https://arxiv.org/abs/2207.00555)- *Y Lee et al*, `INTERSPEECH 2022`
+- [LightHuBERT: Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT](https://arxiv.org/abs/2203.15610)- *R Wang et al*, `INTERSPEECH 2022`
+- [Deep versus Wide: An Analysis of Student Architectures for Task-Agnostic Knowledge Distillation of Self-Supervised Speech Models](https://arxiv.org/abs/2207.06867) - *T Ashihara et al*, `INTERSPEECH 2022`
 
 ## Resources
 
