@@ -73,6 +73,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 
 - [Bigssl: Exploring the frontier of large-scale semi-supervised learning for automatic speech recognition](https://arxiv.org/abs/2109.13226) - *Y Zhang et al*, `arXiv 2021`
 - [Wav-BERT: Cooperative Acoustic and Linguistic Representation Learning for Low-Resource Speech Recognition](https://arxiv.org/abs/2109.09161) - *G Zheng et al*, `EMNLP 2021`
+- ILS-SSL: [Self-Supervised Learning for speech recognition with Intermediate layer supervision](https://arxiv.org/abs/2112.08778) - *C Wang et al*, `arXiv 2021`
 
 ### 2022
 
@@ -85,6 +86,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - Speech2C: [Pre-Training Transformer Decoder for End-to-End ASR Model with Unpaired Speech Data](https://arxiv.org/abs/2203.17113) - *J Ao et al*, `arXiv 2022`
 - [SPIRAL: Self-supervised Perturbation-Invariant Representation Learning for Speech Pre-Training](https://arxiv.org/abs/2201.10207) - *W Huang et al*, `ICLR 2022`
 - Audio-MAE: [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) - *H Xu et al*, `arXiv 2022`
+- [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) - *A Baade et al*, `arXiv 2022`
 
 
 
