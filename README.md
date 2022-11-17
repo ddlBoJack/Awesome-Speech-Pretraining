@@ -116,6 +116,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - [FitHuBERT: Going Thinner and Deeper for Knowledge Distillation of Speech Self-Supervised Learning](https://arxiv.org/abs/2207.00555)- *Y Lee et al*, `INTERSPEECH 2022`
 - [LightHuBERT: Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT](https://arxiv.org/abs/2203.15610)- *R Wang et al*, `INTERSPEECH 2022`
 - [Deep versus Wide: An Analysis of Student Architectures for Task-Agnostic Knowledge Distillation of Self-Supervised Speech Models](https://arxiv.org/abs/2207.06867) - *T Ashihara et al*, `INTERSPEECH 2022`
+- [Exploring Effective Distillation of Self-Supervised Speech Models for Automatic Speech Recognition](https://arxiv.org/abs/2210.15631) - *Y Wang et al*, `arXiv 2022`
 
 ## Resources
 
