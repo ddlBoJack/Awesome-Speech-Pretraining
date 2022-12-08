@@ -87,6 +87,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - [SPIRAL: Self-supervised Perturbation-Invariant Representation Learning for Speech Pre-Training](https://arxiv.org/abs/2201.10207) - *W Huang et al*, `ICLR 2022`
 - Audio-MAE: [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) - *H Xu et al*, `arXiv 2022`
 - [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) - *A Baade et al*, `arXiv 2022`
+- [MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets](https://arxiv.org/abs/2211.07321) - *Z Ma et al*, `arXiv 2022`
 
 
 
@@ -99,6 +100,8 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - STPT: [Unified Speech-Text Pre-training for Speech Translation and Recognition](https://arxiv.org/abs/2204.05409) - *Y Tang et al*, `ACL 2022`
 - [Self-Supervised Audio-and-Text Pre-training with Extremely Low-Resource Parallel Data](https://arxiv.org/abs/2204.04645) - *Y Kang et al*, `AAAI 2022`
 - Distill-L2S: [Distilling a Pretrained Language Model to a Multilingual ASR Model](https://arxiv.org/abs/2206.12638) - *K Choi et al*, `INTERSPEECH 2022`
+- [TESSP: Text-Enhanced Self-Supervised Speech Pre-training](https://arxiv.org/abs/2211.13443) - *Z Yao et al*, `arXiv 2022`
+- [SpeechLM: Enhanced Speech Pre-Training with Unpaired Textual Data](https://arxiv.org/abs/2209.15329) - *Z Zhang et al*, `arXiv 2022`
 
 
 
