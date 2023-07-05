@@ -9,7 +9,9 @@
     - [2020](#2020)
     - [2021](#2021)
     - [2022](#2022)
+    - [2023](#2023)
     - [Speech + Text](#speech--text)
+    - [SSL for Audio](#ssl-for-audio)
     - [SSL for TTS](#ssl-for-tts)
     - [Model Compression and Acceleration](#model-compression-and-acceleration)
   - [Resources](#resources)
@@ -21,7 +23,6 @@
     - [HuBERT](#hubert)
       - [Pre-training](#pre-training-1)
       - [Fine-tuning](#fine-tuning-1)
-    - [data2vec](#data2vec)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -55,39 +56,46 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - 🌟 [wav2vec 2.0: A framework for self-supervised learning of speech representations](https://arxiv.org/abs/2006.11477) - *A Baevski et al*, `NeurIPS 2020`
 - Multi-lingual wav2vec 2.0: [Unsupervised cross-lingual representation learning for speech recognition](https://arxiv.org/abs/2006.13979) - *A Conneau et al*, `arXiv 2020`
 - Self-Training  wav2vec 2.0: [Self-training and Pre-training are Complementary for Speech Recognition](https://arxiv.org/abs/2010.11430)  - *Q Xu et al*, `arXiv 2020, ICASSP 2021`
-- [Decoar 2.0: Deep contextualized acoustic representations with vector quantization](https://arxiv.org/abs/2012.06659)`arXiv 2020`
-- [Pushing the limits of semi-supervised learning for automatic speech recognition](https://arxiv.org/abs/2010.10504) - *Y Zhang et al*, `arXiv 2020`
+- [Decoar 2.0: Deep contextualized acoustic representations with vector quantization](https://arxiv.org/abs/2012.06659)`arXiv 2020, ICASSP 2021`
+- [Pushing the limits of semi-supervised learning for automatic speech recognition](https://arxiv.org/abs/2010.10504) - *Y Zhang et al*, `arXiv 2020, NeurIPS Workshop 2020`
 
 ### 2021
 
 - [Unispeech: Unified speech representation learning with labeled and unlabeled data](https://arxiv.org/abs/2101.07597)- *C Wang et al*, `ACL 2021`
-- [Tera: Self-supervised learning of transformer encoder representation for speech](https://ieeexplore.ieee.org/abstract/document/9478264/) - *AT Liu et al*, `TASLP 2020`
-
+- [Tera: Self-supervised learning of transformer encoder representation for speech](https://ieeexplore.ieee.org/abstract/document/9478264/) - *AT Liu et al*, `TASLP 2021`
 - [Robust wav2vec 2.0: Analyzing Domain Shift in Self-Supervised Pre-Training](https://arxiv.org/abs/2104.01027) - *WN Hsu et al*, `INTERSPEECH 2021`
 - Zero-shot wav2vec 2.0: [Simple and Effective Zero-shot Cross-lingual Phoneme Recognition](https://arxiv.org/abs/2109.11680) - *Q Xu et al*, `arXiv 2021`
 - 🌟 wav2vec-U: [Unsupervised Speech Recognition](https://arxiv.org/abs/2105.11084) - *A Baevski et al*, `NeurIPS 2021`
 - 🌟 [HuBERT: Self-Supervised Speech Representation Learning by Masked Prediction of Hidden Units](https://arxiv.org/abs/2106.07447) - *WN Hsu et al*, `TASLP 2021`
 - 🌟 [SUPERB: Speech processing Universal PERformance Benchmark](https://arxiv.org/abs/2105.01051) - *S Yang et al*, `INTERSPEECH 2021`
-- [Speecht5: Unified-modal encoder-decoder pre-training for spoken language processing](https://arxiv.org/abs/2110.07205) - *J Ao et al*, `arXiv 2021`
-- [Wavlm: Large-scale self-supervised pre-training for full stack speech processing](https://arxiv.org/abs/2110.13900) - *S Chen et al*, `arXiv 2021`
-
-- [Bigssl: Exploring the frontier of large-scale semi-supervised learning for automatic speech recognition](https://arxiv.org/abs/2109.13226) - *Y Zhang et al*, `arXiv 2021`
 - [Wav-BERT: Cooperative Acoustic and Linguistic Representation Learning for Low-Resource Speech Recognition](https://arxiv.org/abs/2109.09161) - *G Zheng et al*, `EMNLP 2021`
-- ILS-SSL: [Self-Supervised Learning for speech recognition with Intermediate layer supervision](https://arxiv.org/abs/2112.08778) - *C Wang et al*, `arXiv 2021`
+- ILS-SSL: [Self-Supervised Learning for speech recognition with Intermediate layer supervision](https://arxiv.org/abs/2112.08778) - *C Wang et al*, `ICASSP 2021`
+- [Wavlm: Large-scale self-supervised pre-training for full stack speech processing](https://arxiv.org/abs/2110.13900) - *S Chen et al*, `arXiv 2021, JSTSP 2022`
+- [Bigssl: Exploring the frontier of large-scale semi-supervised learning for automatic speech recognition](https://arxiv.org/abs/2109.13226) - *Y Zhang et al*, `arXiv 2021, JSTSP 2022`
+- [Speecht5: Unified-modal encoder-decoder pre-training for spoken language processing](https://arxiv.org/abs/2110.07205) - *J Ao et al*, `arXiv 2021, ACL 2022`
 
 ### 2022
 
-- [Data2vec: A general framework for self-supervised learning in speech, vision and language](https://arxiv.org/abs/2202.03555) - *A Baevski et al*, `arXiv 2022`
-- BEST-RQ: [Self-supervised Learning with Random-projection Quantizer for Speech Recognition](https://arxiv.org/abs/2202.01855) - *CC Chiu et al*, `arXiv 2022`
-- [SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities](https://arxiv.org/abs/2203.06849) - *HS Tsai et al*, `arXiv 2022`
-- wav2vec-U 2.0: [Towards End-to-end Unsupervised Speech Recognition](https://arxiv.org/abs/2204.02492) - *AH Liu et al*, `arXiv 2022`
+- 🌟 [Data2vec: A general framework for self-supervised learning in speech, vision and language](https://arxiv.org/abs/2202.03555) - *A Baevski et al*, `ICML 2022`
+- BEST-RQ: [Self-supervised Learning with Random-projection Quantizer for Speech Recognition](https://arxiv.org/abs/2202.01855) - *CC Chiu et al*, `ICML 2022`
+- [SUPERB-SG: Enhanced Speech processing Universal PERformance Benchmark for Semantic and Generative Capabilities](https://arxiv.org/abs/2203.06849) - *HS Tsai et al*, `ACL 2022`
+- 🌟 wav2vec-U 2.0: [Towards End-to-end Unsupervised Speech Recognition](https://arxiv.org/abs/2204.02492) - *AH Liu et al*, `SLT 2022`
 - c-siam: [Contrastive Siamese Network for Semi-Supervised Speech Recognition](https://ieeexplore.ieee.org/abstract/document/9747355) - *S Khorram et al*, `ICASSP 2022`
-- [Wav2Seq: Pre-training Speech-to-Text Encoder-Decoder Models Using Pseudo Languages](https://arxiv.org/abs/2205.01086) - *F Wu et al*, `arXiv 2022`
-- Speech2C: [Pre-Training Transformer Decoder for End-to-End ASR Model with Unpaired Speech Data](https://arxiv.org/abs/2203.17113) - *J Ao et al*, `arXiv 2022`
+- Speech2C: [Pre-Training Transformer Decoder for End-to-End ASR Model with Unpaired Speech Data](https://arxiv.org/abs/2203.17113) - *J Ao et al*, `INTERSPEECH 2022`
 - [SPIRAL: Self-supervised Perturbation-Invariant Representation Learning for Speech Pre-Training](https://arxiv.org/abs/2201.10207) - *W Huang et al*, `ICLR 2022`
-- Audio-MAE: [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) - *H Xu et al*, `arXiv 2022`
-- [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) - *A Baade et al*, `arXiv 2022`
-- [MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets](https://arxiv.org/abs/2211.07321) - *Z Ma et al*, `arXiv 2022`
+- [Wav2Seq: Pre-training Speech-to-Text Encoder-Decoder Models Using Pseudo Languages](https://arxiv.org/abs/2205.01086) - *F Wu et al*, `arXiv 2022, ICASSP 2023`
+- HuBERT-AP: [Speech Pre-training with Acoustic Piece](https://arxiv.org/abs/2204.03240) - *S Ren et al*, `INTERSPEECH 2022`
+- PBERT: [Supervision-Guided Codebooks for Masked Prediction in Speech Pre-training](https://arxiv.org/abs/2206.10125) - *C Wang et al*, `INTERSPEECH 2022`
+- data2vec 2.0: [Efficient Self-supervised Learning with Contextualized Target Representations for Vision, Speech and Language](https://arxiv.org/abs/2212.07525) - *A Baevski et al*, `arXiv 2022`
+- [CoBERT: Self-Supervised Speech Representation Learning Through Code Representation Learning](https://arxiv.org/abs/2210.04062) - *C Meng et al*, `arXiv 2022, INTERSPEECH 2023`
+- [MT4SSL: Boosting Self-Supervised Speech Representation Learning by Integrating Multiple Targets](https://arxiv.org/abs/2211.07321) - *Z Ma et al*, `arXiv 2022, INTERSPEECH 2023`
+
+### 2023
+
+- [CTCBERT: Advancing Hidden-unit BERT with CTC Objectives](https://arxiv.org/abs/2210.08603) - *R Fan et al*, `ICASSP 2023`
+- [data2vec-aqc: Search for the right Teaching Assistant in the Teacher-Student training setup](https://arxiv.org/abs/2211.01246) - *VS Lodagala et al*, `ICASSP 2023`
+- PolyBERT: [Pushing the Limits of Unsupervised Unit Discovery for SSL Speech Representation](https://arxiv.org/abs/2306.08920) - *Z Ma et al*, `INTERSPEECH 2023`
+- [MCR-Data2vec 2.0: Improving Self-supervised Speech Pre-training via Model-level Consistency Regularization](https://arxiv.org/abs/2306.08463) - *JW Yoon et al*, `INTERSPEECH 2023`
 
 
 
@@ -100,8 +108,20 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - STPT: [Unified Speech-Text Pre-training for Speech Translation and Recognition](https://arxiv.org/abs/2204.05409) - *Y Tang et al*, `ACL 2022`
 - [Self-Supervised Audio-and-Text Pre-training with Extremely Low-Resource Parallel Data](https://arxiv.org/abs/2204.04645) - *Y Kang et al*, `AAAI 2022`
 - Distill-L2S: [Distilling a Pretrained Language Model to a Multilingual ASR Model](https://arxiv.org/abs/2206.12638) - *K Choi et al*, `INTERSPEECH 2022`
+- [SpeechUT: Bridging Speech and Text with Hidden-Unit for Encoder-Decoder Based Speech-Text Pre-training](https://arxiv.org/abs/2210.03730) - *Z Zhang et al*, `EMNLP 2022`
 - [TESSP: Text-Enhanced Self-Supervised Speech Pre-training](https://arxiv.org/abs/2211.13443) - *Z Yao et al*, `arXiv 2022`
 - [SpeechLM: Enhanced Speech Pre-Training with Unpaired Textual Data](https://arxiv.org/abs/2209.15329) - *Z Zhang et al*, `arXiv 2022`
+- [token2vec: A Joint Self-Supervised Pre-training Framework Using Unpaired Speech and Text](https://arxiv.org/abs/2210.16755) - *X Yue et al*, `ICASSP 2023`
+
+
+
+### SSL for Audio
+
+- BYOL-A: [BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation](https://arxiv.org/abs/2103.06695) - *D Niizumi et al*, `IJCNN 2021`
+- Audio-MAE: [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) - *H Xu et al*, `NeurIPS 2022`
+- [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) - *A Baade et al*, `INTERSPEECH 2022`
+- [BEATs: Audio Pre-Training with Acoustic Tokenizers](https://arxiv.org/abs/2212.09058) - *S Chen et al*, `arXiv 2022`
+- [Self-supervised Audio Teacher-Student Transformer for Both Clip-level and Frame-level Tasks](https://arxiv.org/abs/2306.04186) - *X Li et al*, `arXiv 2023`
 
 
 
@@ -120,6 +140,8 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - [LightHuBERT: Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT](https://arxiv.org/abs/2203.15610)- *R Wang et al*, `INTERSPEECH 2022`
 - [Deep versus Wide: An Analysis of Student Architectures for Task-Agnostic Knowledge Distillation of Self-Supervised Speech Models](https://arxiv.org/abs/2207.06867) - *T Ashihara et al*, `INTERSPEECH 2022`
 - [Exploring Effective Distillation of Self-Supervised Speech Models for Automatic Speech Recognition](https://arxiv.org/abs/2210.15631) - *Y Wang et al*, `arXiv 2022`
+
+
 
 ## Resources
 
@@ -162,5 +184,3 @@ Statistics on speech pretraining.
 | X-LARGE | Conformer XXL(964M)     | 22.5s      | 3: 9-th transformer layer from BASE HuBERT 400k steps        | 9.5h/100k steps, 256GPUs(Libri-light-60k) |
 
 #### Fine-tuning
-
-### data2vec
