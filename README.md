@@ -94,7 +94,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 
 - [CTCBERT: Advancing Hidden-unit BERT with CTC Objectives](https://arxiv.org/abs/2210.08603) - *R Fan et al*, `ICASSP 2023`
 - [data2vec-aqc: Search for the right Teaching Assistant in the Teacher-Student training setup](https://arxiv.org/abs/2211.01246) - *VS Lodagala et al*, `ICASSP 2023`
-- PolyBERT: [Pushing the Limits of Unsupervised Unit Discovery for SSL Speech Representation](https://arxiv.org/abs/2306.08920) - *Z Ma et al*, `INTERSPEECH 2023`
+- MonoBERT & PolyBERT: [Pushing the Limits of Unsupervised Unit Discovery for SSL Speech Representation](https://arxiv.org/abs/2306.08920) - *Z Ma et al*, `INTERSPEECH 2023`
 - [MCR-Data2vec 2.0: Improving Self-supervised Speech Pre-training via Model-level Consistency Regularization](https://arxiv.org/abs/2306.08463) - *JW Yoon et al*, `INTERSPEECH 2023`
 
 
@@ -120,7 +120,7 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - BYOL-A: [BYOL for Audio: Self-Supervised Learning for General-Purpose Audio Representation](https://arxiv.org/abs/2103.06695) - *D Niizumi et al*, `IJCNN 2021`
 - Audio-MAE: [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) - *H Xu et al*, `NeurIPS 2022`
 - [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) - *A Baade et al*, `INTERSPEECH 2022`
-- [BEATs: Audio Pre-Training with Acoustic Tokenizers](https://arxiv.org/abs/2212.09058) - *S Chen et al*, `arXiv 2022`
+- [BEATs: Audio Pre-Training with Acoustic Tokenizers](https://arxiv.org/abs/2212.09058) - *S Chen et al*, `ICML 2023`
 - [Self-supervised Audio Teacher-Student Transformer for Both Clip-level and Frame-level Tasks](https://arxiv.org/abs/2306.04186) - *X Li et al*, `arXiv 2023`
 
 
@@ -133,13 +133,14 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 
 
 
-### Model Compression and Acceleration
+### SSL Model Distillation, Compression and Acceleration
 
 - [DistilHuBERT: Speech Representation Learning by Layer-wise Distillation of Hidden-unit BERT](https://arxiv.org/abs/2110.01900) - *H Chang et al*, `ICASSP 2022`
 - [FitHuBERT: Going Thinner and Deeper for Knowledge Distillation of Speech Self-Supervised Learning](https://arxiv.org/abs/2207.00555)- *Y Lee et al*, `INTERSPEECH 2022`
 - [LightHuBERT: Lightweight and Configurable Speech Representation Learning with Once-for-All Hidden-Unit BERT](https://arxiv.org/abs/2203.15610)- *R Wang et al*, `INTERSPEECH 2022`
 - [Deep versus Wide: An Analysis of Student Architectures for Task-Agnostic Knowledge Distillation of Self-Supervised Speech Models](https://arxiv.org/abs/2207.06867) - *T Ashihara et al*, `INTERSPEECH 2022`
 - [Exploring Effective Distillation of Self-Supervised Speech Models for Automatic Speech Recognition](https://arxiv.org/abs/2210.15631) - *Y Wang et al*, `arXiv 2022`
+- [Fast-HuBERT: An Efficient Training Framework for Self-Supervised Speech Representation Learning](https://arxiv.org/abs/2309.13860) - *G Yang et al*, `ASRU 2023`
 
 
 
