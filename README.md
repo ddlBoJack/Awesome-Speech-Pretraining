@@ -13,7 +13,7 @@
     - [Speech + Text](#speech--text)
     - [SSL for Audio](#ssl-for-audio)
     - [SSL for TTS](#ssl-for-tts)
-    - [Model Compression and Acceleration](#model-compression-and-acceleration)
+    - [SSL Model Distillation, Compression and Acceleration](#ssl-model-distillation-compression-and-acceleration)
   - [Resources](#resources)
   - [Statistics](#statistics)
     - [wav2vec 2.0](#wav2vec-20)
