@@ -121,7 +121,8 @@ Papers, Resources, and Statistics for Self-Supervised Learning and Pre-Training 
 - Audio-MAE: [Masked Autoencoders that Listen](https://arxiv.org/abs/2207.06405) - *H Xu et al*, `NeurIPS 2022`
 - [MAE-AST: Masked Autoencoding Audio Spectrogram Transformer](https://arxiv.org/abs/2203.16691) - *A Baade et al*, `INTERSPEECH 2022`
 - [BEATs: Audio Pre-Training with Acoustic Tokenizers](https://arxiv.org/abs/2212.09058) - *S Chen et al*, `ICML 2023`
-- [Self-supervised Audio Teacher-Student Transformer for Both Clip-level and Frame-level Tasks](https://arxiv.org/abs/2306.04186) - *X Li et al*, `arXiv 2023`
+- ATST: [Self-supervised Audio Teacher-Student Transformer for Both Clip-level and Frame-level Tasks](https://arxiv.org/abs/2306.04186) - *X Li et al*, `arXiv 2023`
+- [EAT: Self-Supervised Pre-Training with Efficient Audio Transformer](https://arxiv.org/abs/2401.03497) - *W Chen et al*, `arXiv 2024`
 
 
 
